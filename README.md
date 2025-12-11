@@ -1,6 +1,10 @@
-# Домашняя работа по CI/CD
+# Простой CI/CD Pipeline на Jenkins
 
-## В данной работе использовался Jenkins из-за проблем с Gitlab-CI/CD
+### Стадии Pipeline
+ 1. Запуск Python кода
+ 2. Проведение тестов
+ 3. Создание Docker образа и проверка его работоспособности
+ 5. Push в docker-hub
 
 ### 1.Запуск docker с Jenkins
 
